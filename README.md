@@ -7,5 +7,6 @@ A simple and responsive weather website built with HTML, CSS, JavaScript, and Bo
 - Dynamic styling and responsiveness using Bootstrap.
 - Displays temperature and weather condition for the entered city.
 ## Try it out
-Try this website by clicking [here](https://harshit2012.github.io/Weather_Website/)    
+Try this website by clicking [here](https://harshit2012.github.io/Weather_Website/)
+## Fee free to contribute
 Feel free to customize this README based on additional features or specific instructions for your project. Include a screenshot of the website if you'd like.
